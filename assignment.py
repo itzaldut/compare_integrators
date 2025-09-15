@@ -71,7 +71,7 @@ plt.ylabel('Absolute error (log scale)')
 plt.title('Error Convergence: Trapezoidal, Simpson, and Gauss Quadrature')
 plt.legend()
 plt.grid(True, which='both', ls='--')
-plt.savefig('Error.png')
+plt.savefig('Errors.png')
 plt.show()
 
 # Create DataFrame from the collected data
