@@ -44,4 +44,7 @@ The answer to the fits are:
 Estimated order (alpha) = -1.999, coefficient C ≈ 5.249e-02
 Estimated order (alpha) = -4.022, coefficient C ≈ 3.824e-03
 
+Part 2 answers:
 
+The reason that my function is not working is because it changes rapidly. 
+To fix this we can take parts of the problem and partition them, we can also use integrators that are meant for oscillations. 
